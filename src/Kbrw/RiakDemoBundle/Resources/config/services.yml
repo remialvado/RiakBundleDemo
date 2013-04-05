@@ -1,0 +1,7 @@
+parameters:
+#    kbrw_riak_demo.example.class: Kbrw\RiakDemoBundle\Example
+
+services:
+#    kbrw_riak_demo.example:
+#        class: %kbrw_riak_demo.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
